@@ -2,7 +2,7 @@
 
 **Project:** Modeling Visitation and Pay Equity in U.S. Public Libraries
 
-**Purpose:** Repository for a class project exploring the relation of Wi-Fi, programs, and open hours to visits by locale as well as investigating staff pay equity to IRS ZIP code income data.
+**Purpose:** Repository for a class project exploring the relation of Wi-Fi, programs, and open hours to visits by locale as well as investigating staff pay equity to IRS ZIP code income data. For my final project, I investigated the 2022 Public Libraries Survey (PLS) dataset from the Institute of Museum and Library Services. The data file contains all registered public libraries (9,243 total) from all 50 states and the DC area.
 
 **Contents:**
 - **Data:**
