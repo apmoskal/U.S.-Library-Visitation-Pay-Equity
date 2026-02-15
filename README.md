@@ -1,2 +1,29 @@
 # U.S.-Library-Visitation-Pay-Equity
-Prepared the 2022 Public Libraries Survey (n ≈ 9K libraries) with outlier handling, locale features, and average salary-per-FTE measures. • Fit regression models (with diagnostics) to relate Wi-Fi, programs, and open hours to visits by locale and joined IRS ZIP code income data to assess staff pay equity.
+
+**Project:** Modeling Visitation and Pay Equity in U.S. Public Libraries
+
+**Purpose:** Repository for a class project exploring the relation of Wi-Fi, programs, and open hours to visits by locale as well as investigating staff pay equity to IRS ZIP code income data.
+
+**Contents:**
+- **Data:**
+  - `Data/PLS_FY22_AE_pud22i` — 2022 Public Libraries Survey (n ≈ 9K libraries)
+  - `Data/22zpallagi` — IRS ZIP Code Income data
+
+- **Notebooks:**
+	- `Notebooks/amoskal_finalproject.ipynb` — Full project notebook.
+
+- **Environment:** `requirements.txt` is included for reproducibility.
+
+**My Role:**
+- **Topic modeling:**
+  - Prepared the 2022 Public Libraries Survey (n ≈ 9K libraries) with outlier handling, locale features, and average salary-per-FTE
+measures.
+  - Fit regression models (with diagnostics) to relate Wi-Fi, programs, and open hours to visits by locale and joined IRS ZIP code
+income data to assess staff pay equity.
+
+**Notes & Assumptions**
+- The notebooks expect the datasets at `Data/`.
+
+**Attribution & License**
+
+- License: see `LICENSE` in repo root.
