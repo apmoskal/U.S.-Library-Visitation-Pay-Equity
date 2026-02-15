@@ -6,8 +6,8 @@
 
 **Contents:**
 - **Data:**
-  - `Data/PLS_FY22_AE_pud22i` — 2022 Public Libraries Survey (n ≈ 9K libraries)
-  - `Data/22zpallagi` — Placeholder for IRS ZIP Code Income Data. Download here: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2022-zip-code-data-soi
+  - `Data/PLS_FY22_AE_pud22i.csv` — 2022 Public Libraries Survey (n ≈ 9K libraries)
+  - `Data/22zpallagi(1).txt` — Placeholder for IRS ZIP Code Income Data. Download here as .csv: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2022-zip-code-data-soi
 
 - **Notebooks:**
 	- `Notebooks/amoskal_finalproject.ipynb` — Full project notebook.
